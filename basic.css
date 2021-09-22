@@ -5,4 +5,7 @@ h1 {
 ul > li {
 	display: inline-block;
 	zoom:1;
+	margin: 3ch;
 }
+
+
